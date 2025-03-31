@@ -1,6 +1,6 @@
 # Destiny 2 Raid Bot
 
-Un simple Bot organizador de raids para Destiny 2, desarrollado en NodeJS.
+Un simple Bot de Discord organizador de raids para Destiny 2, desarrollado en NodeJS.
 
 ## Características
 
